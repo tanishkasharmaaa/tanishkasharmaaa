@@ -30,17 +30,7 @@
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
-![Chakra UI](https://img.shields.io/badge/-ChakraUI-319795?style=flat-square&logo=chakra-ui)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)  
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)  
-![Google Gemini](https://img.shields.io/badge/-Gemini-5F259F?style=flat-square&logo=google)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
+<table> <tr> <td> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" /> </td> <td> <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js" /> </td> <td> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb" /> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/-ChakraUI-319795?style=flat-square&logo=chakra-ui" /> </td> <td> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" /> </td> <td> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" /> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman" /> </td> <td> <img src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" /> </td> <td> <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render" /> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/-Gemini-5F259F?style=flat-square&logo=google" /> </td> <td> <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai" /> </td> <td> </td> </tr> </table>
 
 ---
 
