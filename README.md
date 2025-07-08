@@ -18,7 +18,9 @@
 - 👨‍💻 All my projects are available at: [github.com/tanishkasharmaaa](https://github.com/tanishkasharmaaa)
 
 - 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/tanishkasharmaaa/) | tanishkasharma@example.com
+  [LinkedIn](www.linkedin.com/in/
+tanishka-304953274
+) | anjanasharma8448766174@gmail.com
 
 ---
 
