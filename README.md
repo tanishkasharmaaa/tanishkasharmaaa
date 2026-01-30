@@ -98,13 +98,22 @@ AskAI is a productivity-focused web application that allows users to interact wi
 
 ---
 
+## 💼 Internship Experience
+
+### 🔹 SDE Intern — ADesignGuy  
+**July 2025 – October 2025**
+
+- Developed and deployed a **customer support widget** integrated into live production web applications  
+- Built frontend features using **Next.js and TypeScript** to handle real-time user queries and display AI-generated responses  
+- Implemented backend APIs using **Node.js and Express**, with **PostgreSQL (Supabase)** for authentication and data storage  
+- Optimized async workflows and API handling, improving average response time by **40%**  
+- Contributed to **end-to-end feature delivery**, including UI development, API integration, testing, and deployment
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanishkasharmaaa&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkasharmaaa&theme=radical" />
 </p>
 
