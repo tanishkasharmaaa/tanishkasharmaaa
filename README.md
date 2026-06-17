@@ -23,7 +23,7 @@ I’m a **Full Stack MERN Developer** with hands-on experience building and depl
 - 🧠 Focused on writing **clean, maintainable, and scalable code**
 - 💼 Open to opportunities in **Full Stack / Backend / Frontend (MERN-focused)** roles
 - 📫 Reach me at:  
-  [📩 Email](mailto:anjanasharma8448766174@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/tanishka-304953274)
+  [📩 Email](mailto:tanishkasharma8826@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/tanishka-304953274)
 
 ---
 
@@ -100,15 +100,24 @@ AskAI is a productivity-focused web application that allows users to interact wi
 
 ## 💼 Internship Experience
 
-### 🔹 SDE Intern — ADesignGuy  
+### 🔹 SDE Intern — Techvruk
+
+**April 2026 – Present**
+
+* Developed and deployed core application architecture with a focus on system scalability and robust user authentication workflows
+* Engineered full-stack features using the **MERN stack**, leading the implementation of centralized database schemas and optimized API endpoints
+* Spearheaded the design and integration of AI-driven functionalities, utilizing the **Gemini API** to process complex data and extract structured payloads
+* Designed and built responsive, grid-based front-end architectures using **React** and high-fidelity custom components to optimize user retention and application flow
+
+### 🔹 SDE Intern — ADesignGuy
+
 **July 2025 – October 2025**
 
-- Developed and deployed a **customer support widget** integrated into live production web applications  
-- Built frontend features using **Next.js and TypeScript** to handle real-time user queries and display AI-generated responses  
-- Implemented backend APIs using **Node.js and Express**, with **PostgreSQL (Supabase)** for authentication and data storage  
-- Optimized async workflows and API handling, improving average response time by **40%**  
-- Contributed to **end-to-end feature delivery**, including UI development, API integration, testing, and deployment
-
+* Developed and deployed a **customer support widget** integrated into live production web applications
+* Built frontend features using **Next.js and TypeScript** to handle real-time user queries and display AI-generated responses
+* Implemented backend APIs using **Node.js and Express**, with **PostgreSQL (Supabase)** for authentication and data storage
+* Optimized async workflows and API handling, improving average response time by **40%**
+* Contributed to **end-to-end feature delivery**, including UI development, API integration, testing, and deployment
 
 ## 📊 GitHub Stats
 
